@@ -1,8 +1,4 @@
-package com.example.giuliano.googlemaps;
-
-/**
- * Created by Giuliano on 06/10/2015.
- */
+package com.example.samuel.gpsar;
 
 import com.google.android.gms.maps.model.LatLng;
 

@@ -1,10 +1,8 @@
-package com.example.giuliano.googlemaps;
+package com.example.samuel.gpsar;
 
 /**
- * Created by Giuliano on 01/10/2015.
+ * Created by Samuel on 25/08/2016.
  */
-
-
 public class Marker {
 
     private Double lat;

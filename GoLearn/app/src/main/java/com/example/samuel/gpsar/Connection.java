@@ -1,5 +1,4 @@
-package com.example.giuliano.googlemaps;
-
+package com.example.samuel.gpsar;
 import android.os.StrictMode;
 
 import org.json.JSONArray;
@@ -12,9 +11,6 @@ import java.util.List;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import org.json.JSONObject;
-/**
- * Created by Giuliano on 01/10/2015.
- */
 public class Connection {
 
     public List<Marker> getData() throws JSONException {

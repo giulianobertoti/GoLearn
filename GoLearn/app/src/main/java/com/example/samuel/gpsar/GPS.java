@@ -1,5 +1,4 @@
-package com.example.giuliano.googlemaps;
-
+package com.example.samuel.gpsar;
 import android.location.Location;
 import android.location.LocationListener;
 import android.os.Bundle;
@@ -9,10 +8,6 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.util.List;
-
-/**
- * Created by Giuliano on 06/10/2015.
- */
 public class GPS implements LocationListener {
 
     private GoogleMap map;
@@ -44,3 +39,4 @@ public class GPS implements LocationListener {
     public void onStatusChanged(String provider, int status, Bundle extras) {
     }
 }
+
